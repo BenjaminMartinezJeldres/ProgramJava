@@ -1,3 +1,8 @@
+/*
+5. Desarrolle un algoritmo que, dado un texto ingresado por teclado, muestre el mismo texto
+por pantalla en mayúsculas cambiando las letras ‘a’ por ‘o’ y las letras ‘e’ por ‘i’.
+
+ */
 import java.util.Scanner;
 
 public class Ejercicio5 {

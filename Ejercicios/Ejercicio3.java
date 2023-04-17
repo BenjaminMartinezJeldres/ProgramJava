@@ -1,3 +1,9 @@
+/* 3. Desarrolle un algoritmo que permita calcular la siguiente función
+
+            {(𝑥 + 2) elevado 2 − 𝑦𝑧, 𝑆𝑖 𝑥 <𝑦/𝑧
+𝑓(𝑥, 𝑦, 𝑧)= {𝑥𝑦𝑧 + 71, 𝑆𝑖 𝑥 = y/z
+            {𝑥 elevado 2 + 𝑦 elevado 2 + 𝑧 elevado 2 , 𝑆𝑖 𝑥 >y/z
+*/
 import java.util.Scanner;
 
 public class Ejercicio3 {

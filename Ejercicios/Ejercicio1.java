@@ -1,3 +1,8 @@
+
+/*
+1. Desarrolle un algoritmo que convierta el peso chileno a su equivalente en dólar, euro, yen,
+yuan y libra esterlina.
+*/
 import java.util.Scanner;
 
 public class Ejercicio1 {

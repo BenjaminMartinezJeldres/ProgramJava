@@ -1,3 +1,13 @@
+/*
+ 4. Dados tres lados de entrada 𝑆1, 𝑆2 y 𝑆3 determinar qué tipo de triángulo forman ellos,
+considerando que si:
+• 𝑆1 = 𝑆2 = 𝑆3, entonces el triángulo es equilátero.
+• 𝑆1 ≠ 𝑆2 ≠ 𝑆3, entonces el triángulo es escaleno.
+• Existen dos lados iguales, entonces el triángulo es isósceles.
+Se debe comprobar primero, si estos tres lados forman o no un triángulo, esto es, se debe
+comprobar que la suma de dos lados cualquiera debe ser mayor al tercer lado.
+* */
+
 import java.util.Scanner;
 
 public class Ejercicio4 {

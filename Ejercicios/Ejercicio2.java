@@ -1,3 +1,12 @@
+/*
+2. Desarrolle un algoritmo que permita, dado un valor entero 𝑥 calcular:
+• El perímetro del cuadrado cuyo lado mide 𝑥
+• El área de un circulo, cuyo diámetro es 𝑥
+• El área de un rectángulo, cuyos lados miden 𝑥 y 2𝑥 respectivaente.
+• El perímetro de un triángulo equilátero, cuyo lado mide 𝑥
+La hipotenusa de un triángulo isósceles, cuyo cateto mide x
+*/
+
 import java.util.Scanner;
 
 public class Ejercicio2{
