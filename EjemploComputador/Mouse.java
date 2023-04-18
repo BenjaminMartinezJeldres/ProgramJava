@@ -1,3 +1,5 @@
+package EjemploComputador;
+
 public class Mouse {
     private String marca;
     private String modelo;

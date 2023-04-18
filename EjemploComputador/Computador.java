@@ -1,3 +1,5 @@
+package EjemploComputador;
+
 public class Computador {
     private Teclado teclado;
     private Mouse mouse;

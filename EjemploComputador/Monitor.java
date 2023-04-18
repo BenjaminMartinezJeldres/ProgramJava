@@ -1,3 +1,5 @@
+package EjemploComputador;
+
 public class Monitor {
     private String marca;
     private String modelo;

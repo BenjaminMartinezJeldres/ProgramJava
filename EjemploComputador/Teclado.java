@@ -1,3 +1,5 @@
+package EjemploComputador;
+
 public class Teclado {
     private String marca;
     private String modelo;

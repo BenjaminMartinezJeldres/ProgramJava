@@ -1,3 +1,5 @@
+package EjemploComputador;
+
 public class Gabinete {
     private String marca;
     private String modelo;
